@@ -34,3 +34,9 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?
+
+<h1>Main Logic</h1>
+<p> digit=x%10
+    reverse=reverse*10+digit
+    x=x//10
+</p>
