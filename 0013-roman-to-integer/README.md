@@ -57,6 +57,6 @@ M             1000</pre>
 	<li>It is <strong>guaranteed</strong>&nbsp;that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.</li>
 </ul>
 <h1>Main Logic</h1>
-<p> when current<next: total=total-current</p>
+<p> when current is less than next : total=total-current</p> 
 <p>when current>=next: total=total+current</p>
 <p>At last for the last digit of thr number add the line total=total=values[s[-1]]</p>
