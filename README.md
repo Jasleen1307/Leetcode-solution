@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
