@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 ## Trie
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jasleen1307/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
